@@ -40,3 +40,10 @@ footer {
   font-weight: bold;
   font-size: 2rem;
 }
+
+button{
+  background-color: darkgoldenrod;
+  position: absolute;
+  top: 87%;
+  left: 45%;
+}
